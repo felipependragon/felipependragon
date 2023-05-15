@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently performing process automation using **Python, Power Automate, Flows, SharePoint, C# integrated to Rockwell PLC**. Also making improvements in systems using the MEAN stack and supporting other applications built using .Net Core and Full framework, the asp classic and PHP. Working with global teams to carry out improvements and admissions of systems. 
-
-- 💬 Ask me about **.Net Full Framework, Web Forms, MS SQL Server**
+- 🔨 I’m a Full Stack Developer. 
+- 🥇 Currently performing process automation using **Python, Power Platform and SharePoint, C# integrated to Rockwell PLC**. 
+- ⭐️ supporting applications created with the **MEAN stack** 
+- ⭐️ supporting applications created with **.Net Core and .Net Full Framework**
+- 🌏 working with global teams to carry out improvements and system's admissions
+- 💬 Ask me about **.Net Full Framework, Web Forms, Asp Classic and MS SQL Server**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
