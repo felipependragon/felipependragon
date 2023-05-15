@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔨 I’m a Full Stack Developer. 
-- 🥇 Currently performing process automation using **Python, Power Platform and SharePoint, C# integrated to Rockwell PLC**. 
+- 🔨 I’m a Full Stack Developer
+- 🥇 Currently performing process automation using **Python, Power Platform and SharePoint, C# integrated to Rockwell PLC**
 - ⭐️ supporting applications created with the **MEAN stack** 
 - ⭐️ supporting applications created with **.Net Core and .Net Full Framework**
 - 🌏 working with global teams to carry out improvements and system's admissions
